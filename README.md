@@ -1,4 +1,4 @@
-# 21f1006795-grocery-store-v2-project
+# Grocery Store Web Application
 
 ## Project setup
 ## to run frontend side code, run below command
