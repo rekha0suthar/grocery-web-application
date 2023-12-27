@@ -1,9 +1,9 @@
-from flask import Flask, request, session, jsonify,send_file
+from flask import Flask, request, jsonify,send_file
 import sqlite3
 from flask_cors import CORS
 from flask_restful import Api, Resource, reqparse
 from cache_config import cache
-from flask_jwt_extended import JWTManager, create_access_token, jwt_required, get_jwt_identity, create_refresh_token, get_jwt_identity
+from flask_jwt_extended import JWTManager, jwt_required, get_jwt_identity
 from datetime import timedelta
 from category import Category, CategoryList, EditCategory, DeleteCategory, RequestAddCategory, RequestDeleteCategory, RequestEditCategory, ApproveEditCategoryRequest, ApproveDeleteCategoryRequest, RejectAddCategoryRequest, RejectDeleteCategoryRequest, RejectEditCategoryRequest, ApproveAddCategoryRequest
 from product import Product, ProductList, EditProduct, DeleteProduct, ProductSearch
