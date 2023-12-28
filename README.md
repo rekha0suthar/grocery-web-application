@@ -10,6 +10,7 @@
 
 ### Store Manager Side
 ![4162e8e6-a847-4752-a6f0-f6f55b278f3a](https://github.com/rekha0suthar/grocery-web-application/assets/71004640/ecbd72c6-c3e9-4dc4-a223-57c1a4d43c0c)
+![e71e8061-d672-4b40-b561-8f5c3d40e043](https://github.com/rekha0suthar/grocery-web-application/assets/71004640/a7ec7548-d20e-49f5-b227-ce940a10ca36)
 
 
 ## Project setup
