@@ -2,6 +2,8 @@
 
 ## Demo Video - https://drive.google.com/file/d/1ZohEOUIFfpIQE_fatzBn49H30AK9q0IE/view
 
+## React version of application - https://github.com/rekha0suthar/grocery-store-react-version
+
 ### Admin Side
 ![f57f9e23-7cf9-4b7e-a31e-67dc80762398](https://github.com/rekha0suthar/grocery-web-application/assets/71004640/1c02c9f9-8906-45a0-a313-32666fdc85ea)
 
